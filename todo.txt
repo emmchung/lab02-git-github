@@ -1,2 +1,2 @@
-- finish lab
+- finish labs
 - submit repo URL to Canvas
